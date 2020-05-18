@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lighweight Deep Learning Models for Signal and Information Analysis"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
